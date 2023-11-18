@@ -1,10 +1,10 @@
 ## ZNukem Personal Voice License
 Copyright © 2020-2023 <ZNukem Productions>
-License: Version 1 - November 06, 2023
+Version: November 18, 2023
 Any changes or updates to this license by me you will have to upgrade future release versions.
 
 ### **Attribution and Use**
-This content is free to use for non-commercial projects only. 
+This content is free to use for non-commercial projects only. Unless permission is otherwise granted by me.
 You are welcome to use these voice lines in your mod or project under the following conditions:
 
 - Please note that any unauthorized use or exploitation of my voice contributions, including samples produced by voice AI software, is not allowed. 
